@@ -1,0 +1,15 @@
+artifact_uri: file:///content/Practica_MLOps/mlflow/686083996175465282/a9497ac6e2474e648f005af559503700/artifacts
+end_time: 1743365985707
+entry_point_name: ''
+experiment_id: '686083996175465282'
+lifecycle_stage: active
+run_id: a9497ac6e2474e648f005af559503700
+run_name: Reentrenamiento_Modelo_Sentimiento
+run_uuid: a9497ac6e2474e648f005af559503700
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743365985678
+status: 4
+tags: []
+user_id: root

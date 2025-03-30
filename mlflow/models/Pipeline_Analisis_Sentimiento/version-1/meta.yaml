@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1743366169193
+current_stage: None
+description: null
+last_updated_timestamp: 1743366169193
+name: Pipeline_Analisis_Sentimiento
+run_id: 68e58047fec845e6ae5132548ad80126
+run_link: null
+source: file:///content/Practica_MLOps/mlflow/686083996175465282/68e58047fec845e6ae5132548ad80126/artifacts/modelo_sentimiento
+status: READY
+status_message: null
+storage_location: file:///content/Practica_MLOps/mlflow/686083996175465282/68e58047fec845e6ae5132548ad80126/artifacts/modelo_sentimiento
+user_id: null
+version: 1
