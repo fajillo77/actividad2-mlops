@@ -9,7 +9,7 @@ El objetivo principal de esta práctica es demostrar cómo gestionar eficazmente
 *   **MLflow:** Para el seguimiento exhaustivo de experimentos (parámetros, métricas) y el registro formal de modelos, permitiendo gestionar y comparar diferentes versiones.
 *   **Git y GitHub:** Como sistema de control de versiones para el código fuente del cuaderno Jupyter, los conjuntos de datos utilizados, los modelos iniciales y, crucialmente, los metadatos y artefactos generados por MLflow durante el seguimiento local.
 
-El flujo de trabajo implementado en el cuaderno Jupyter (`ACTIVIDAD2_FABIAN_JIMENEZ_LLODRA.ipynb` o `MLOps_Versionado_Modelos_Mejorado.ipynb`) sigue estos pasos:
+El flujo de trabajo implementado en el cuaderno Jupyter (`ACTIVIDAD2_FABIAN_JIMENEZ_LLODRA.ipynb`) sigue estos pasos:
 
 1.  **Configuración del Entorno:** Instalación de dependencias Python y descarga de recursos NLTK.
 2.  **Inicialización:** Clonación de un repositorio base (proporcionado por el profesor) y configuración del seguimiento local de MLflow dentro de la estructura del proyecto.
@@ -21,7 +21,7 @@ El flujo de trabajo implementado en el cuaderno Jupyter (`ACTIVIDAD2_FABIAN_JIME
 
 ## Estructura del Repositorio
 
-*   **`ACTIVIDAD2_FABIAN_JIMENEZ_LLODRA.ipynb` (o `MLOps_Versionado_Modelos_Mejorado.ipynb`):** El cuaderno Jupyter principal que contiene todo el código y las explicaciones del flujo de trabajo.
+*   **`ACTIVIDAD2_FABIAN_JIMENEZ_LLODRA.ipynb`:** El cuaderno Jupyter principal que contiene todo el código y las explicaciones del flujo de trabajo.
 *   **`datasets/`:** Directorio que contiene los conjuntos de datos utilizados.
     *   `Apple-Twitter-Sentiment.csv`: Dataset original (posiblemente).
     *   `Apple-Twitter-Sentiment_new.csv`: Dataset utilizado para la evaluación del drift y el reentrenamiento.
